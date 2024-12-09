@@ -163,11 +163,13 @@ body {
 }
 
 footer img{
-    background-image: url(snow.png);
     margin-top: 323px;
     width: 100%;
     height: auto;
     display: block;
+}
+footer img{
+    background-image: url(snow.png);
 }
 .hidden {
     display: none;
